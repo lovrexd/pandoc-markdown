@@ -16,6 +16,7 @@ Ova dokumentacija služi u svrhu primjene Pandoca za konverziju datoteka, odnosn
 #### Tablica
 
 | Naslovi  | Opis |
+|----------|------|
 | `#`      | Naslov |
 | `-`      | Lista |
 | ``` ```  | Code block |
