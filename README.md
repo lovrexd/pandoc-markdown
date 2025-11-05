@@ -23,7 +23,7 @@ Ova dokumentacija služi u svrhu primjene Pandoca za konverziju datoteka, odnosn
 
 ##### Blok koda
 ```python
-print("Hello, world!")
+print("Hello world!")
 ```
 
 <img src="Tux.png" width="30%">
